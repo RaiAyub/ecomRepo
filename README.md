@@ -11,5 +11,14 @@
 ## Project Architecture
 ![alt text](https://user-images.githubusercontent.com/50141193/58799788-845b1c00-8606-11e9-924b-1b4c03a9091c.png)
 
-## Technologies used
+## Tools and Technologies used
 - #### Spring Boot
+- #### Java 11
+- #### Netflix Eureka Client/Server
+- #### Spring Web MVC
+- #### Spring Data JPA
+- #### Hibernate
+- #### SQL Database Engine
+- #### Maven
+
+## Features 
