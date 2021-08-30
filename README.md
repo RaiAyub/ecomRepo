@@ -22,12 +22,12 @@
 - #### Maven
 
 ## Features 
-- ### 1 Administration:
+ ### 1 Administration:
   - User management
   - Product management
   - Order management
   
- - ### 2 User: 
+  ### 2 User: 
   - Registration
   - Shopping cart
   - Order
